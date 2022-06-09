@@ -5,3 +5,4 @@ Tested on
 Kali Linux
 Ubuntu
 Termux
+Authenticated with CamPhish
