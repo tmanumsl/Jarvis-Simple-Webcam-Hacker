@@ -5,6 +5,7 @@ apt install python
 apt install python3
 apt install git
 apt install wget
+apt install php
 echo "ok now let's hack the webcam"
 git clone https://github.com/techchipnet/CamPhish
 echo "Program starting in Progress please stay patient"
